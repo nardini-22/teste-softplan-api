@@ -1,10 +1,10 @@
 {
 	"users": [
 		{
-			"id": "fecc5e34-1577-4f0b-bd47-d5bb9e97f101",
 			"email": "admin@admin.com",
-			"password": "admin1234",
-			"role": "admin"
+        "password": "$2a$10$OmI0yEW5qMzI2kufZ/5wLeGjEDJe8N9TEWuzJpX25N8RdNowVzo8W",
+        "role": "admin",
+        "id": 1
 		}
 	]
 }
