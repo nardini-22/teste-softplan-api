@@ -1,0 +1,14 @@
+{
+  "name": "teste-softplan-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api/server.js",
+  "scripts": {
+    "server": "node api/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "0.17.4"
+  }
+}
