@@ -15,7 +15,7 @@ server.db = router.db
 
 server.use(middlewares)
 server.use(jsonServer.rewriter({
-	'/api/*': '/$1',
+	"/users*": "/660/users$1"
 }))
 server.use(auth)
 server.use(router)
