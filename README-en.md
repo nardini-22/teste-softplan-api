@@ -1,6 +1,6 @@
 # Teste Softplan API
 
-[![pt](https://img.shields.io/badge/README-Portuguese-green.svg)](https://github.com/nardini-22/teste-softplan-api/blob/master/README.md)
+[![pt](https://img.shields.io/badge/README-Portuguese-green.svg)](https://github.com/nardini-22/teste-softplan-api/blob/main/README.md)
 
 ## ✏️ Introduction
 
